@@ -1,0 +1,6 @@
+E-COMMERCE PURCHASE PREDICTION - KEY RESULTS
+==================================================
+Dataset: 12157 sessions analysed
+Final model: Extra Trees Classifier
+Accuracy: 93.9%
+Top predictor: PageValues (35.1% importance)
